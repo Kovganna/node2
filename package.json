@@ -1,0 +1,24 @@
+{
+  "name": "node2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kovganna/node2.git"
+  },
+  "keywords": [],
+  "author": "AnnaK <annakovalenko168@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kovganna/node2/issues"
+  },
+  "homepage": "https://github.com/Kovganna/node2#readme",
+  "dependencies": {
+    "commander": "^8.3.0"
+  }
+}
